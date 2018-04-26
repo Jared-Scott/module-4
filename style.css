@@ -1,0 +1,53 @@
+* {
+				font-family: 'GNUTypewriterStandard'; 
+   font-weight: normal; 
+   font-style: normal; 
+				color: #665544;
+				text-align: center;}
+			body {
+				width: 90%;
+				margin: 0 auto;
+background-image: url("https://d2ezq7t0wj6z8f.cloudfront.net/i26oW46jmTk6NIhmKfLUcG3xhtQ=/1200x861/filters:quality(90)/product/3/c/22c1903a918643319be85d6eb413a113.jpg")}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+			.column3 {
+				margin-right: 0%;}
+			li {
+				display: inline;
+				padding: 0.5em;}
+			 #footer {
+				background-color:orange;
+              padding: 0.5em 0;}
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #efefef;}
+#feature {
+ background-color: #8CC63E;
+ background-image: url("https://i.pinimg.com/originals/a2/27/df/a227dfaebac2bf6f5319507e5744e960.jpg");
+ background-size:contain;
+ background-position: right;
+ background-repeat:no-repeat;}
+
+#nav {
+	background-color:pink;
+     padding: 0.5em 0;}
+.column1{
+  background-color:red
+}
+.column2{
+  background-color:teal
+}
+.column3{
+  background-color:magenta
+}
+
+
+
+
